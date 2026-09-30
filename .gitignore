@@ -1,0 +1,14 @@
+# These are generated from real mail and must never be committed.
+flagged-current.txt
+flagged-backup.txt
+spotlight-history.csv
+*.sql
+*.db
+blob.bin
+.DS_Store
+.claude/
+
+# Local-only helpers, not part of this repo.
+spotlight-watch.sh
+calsync-doctor.sh
+README.md.bak
